@@ -1,10 +1,30 @@
-<h1 style="font-size: 96px">@q1zhen</h1>
+# **@q1zhen**
+IB student. Tech enthusiast.
 
-This is Qizhen Yang.
+---
 
-- I am an IB student in Shanghai, China.
-- I can speak English and Chinese fluently, and I know a bit of Spanish and Norweigian (Bokmål).
-- Skills & Tools: <br/>
+**GitHub [@q1zhen](https://github.com/q1zhen)**  
+**Twitter [@q1zhen_](https://twitter.com/q1zhen_)**  
+**Email <hi@qizhen-yang.cn>**
+
+---
+
+Hello!
+
+This is **Qizhen Yang**. Welcome to my GitHub profile.  
+I speak English and Chinese and know a bit of Spanish, Norweigian (Bokmål).
+
+[My website >>>](https://qizhen-yang.cn)
+
+Maybe also have a glance at:  
+\>> [My blog](https://qizhen-yang.cn/blog/)
+\>> [Some of my projects and useful tools](https://qizhen-yang.cn/projects/)
+\>> [Computerization Club](https://computerization.io/) ([GitHub](https://github.com/computerization)), where I am the current club leader.
+
+---
+
+## Skills & Tools
+
 ![C++](https://img.shields.io/badge/C%2B%2B-512BD4?logo=cplusplus&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000000?logo=javascript&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&style=for-the-badge&logoColor=ffffff)
