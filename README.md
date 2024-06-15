@@ -17,8 +17,8 @@ I speak English and Chinese and know a bit of Spanish, Norweigian (Bokmål).
 [My website >>>](https://qizhen-yang.cn)
 
 Maybe also have a glance at:  
-\>> [My blog](https://qizhen-yang.cn/blog/)
-\>> [Some of my projects and useful tools](https://qizhen-yang.cn/projects/)
+\>> [My blog](https://qizhen-yang.cn/blog/)  
+\>> [Some of my projects and useful tools](https://qizhen-yang.cn/projects/)  
 \>> [Computerization Club](https://computerization.io/) ([GitHub](https://github.com/computerization)), where I am the current club leader.
 
 ---
