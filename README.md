@@ -12,7 +12,7 @@ IB student. Tech enthusiast.
 Hello!
 
 This is **Qizhen Yang**. Welcome to my GitHub profile.  
-I speak English and Chinese and know a bit of Spanish, Norweigian (Bokmål).
+I speak English and Chinese.
 
 [My website >>>](https://qizhen-yang.cn)
 
