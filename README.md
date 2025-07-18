@@ -17,7 +17,7 @@ I speak Shanghainese, Mandarin, and English.
 |[My Website](https://q1z.dev)|
 |-|
 
-![](https://github-readme-stats.vercel.app/api?username=q1zhen&show_icons=true&theme=dark)
+![](https://github-readme-stats-sage-five.vercel.app/api?username=q1zhen&show_icons=true&theme=dark)
 
 <details class="text-sm my-8 w-full">
 <summary>
