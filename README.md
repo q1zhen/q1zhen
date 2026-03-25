@@ -9,7 +9,7 @@ From 2026/2027 onward, Google will require developer verification for all Androi
 
 # Hi!
 
-This is <b title="Hànyǔ Pīnyīn: Yáng Qízhēn&NewLine;Gwoyeu Romatzyh: Yang Chyi-Jen&NewLine;IPA: [jɑŋ³⁵ tɕʰi³⁵ ʈʂən⁵⁵]">Yang Chyi-Jen <sup>(?)</sup></b> from Shanghai, China.
+This is <b title="Hànyǔ Pīnyīn: Yáng Qízhēn&NewLine;Gwoyeu Romatzyh: Yang Chyi-Jen&NewLine;IPA: [jɑŋ³⁵ tɕʰi³⁵ ʈʂən⁵⁵]">Yang Qizhen <sup>(?)</sup></b> from Shanghai, China.
 
 I speak Shanghainese, Mandarin, and English.
 
