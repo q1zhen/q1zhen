@@ -1,3 +1,4 @@
+<!--
 # Keep Android Open
 
 [![Keep Android Open](https://keepandroidopen.org/img/keepandroidopen.png)](https://keepandroidopen.org/)
@@ -6,6 +7,7 @@ From 2026/2027 onward, Google will require developer verification for all Androi
 
 ---
 ---
+-->
 
 # Hi!
 
